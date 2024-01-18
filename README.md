@@ -25,7 +25,7 @@ process implemented for the growth of the enterprise.
 - Utilized C# and ASP.NET Core for the server-side logic and SQL Server for database management.
 - Integrated the Amadeus APIs for flight search, price verification and booking.
 
-### Project 2: [Students' Lectures Attendance Tracking] (https://github.com/peter-ayobami/slat.api.web.server)
+### Project 2: [Students' Lectures Attendance Tracking] (https://github.com/peterayobami/slat.api.web.server)
 - Created a system for tracking students' lectures attendance, including user authentication and reporting features.
 - Implemented a RESTful API using C# and ASP.NET Core, which the client mobile app can integrate, with SQL Server for data storage.
 - Implemented an email service using SMTP for verifications.
