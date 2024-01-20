@@ -20,7 +20,7 @@ process implemented for the growth of the enterprise.
 - **Version Control:** Git, GitHub
 
 ## Projects
-### Project 1: [Flight Booking Engine] (https://github.com/peterayobami/ultimate.travels.api.server) ([Live Demo](https://ultimate-travels.azurewebsites.net/swagger))
+### Project 1: [Flight Booking Engine] (https://github.com/peterayobami/ultimate.travels.api.server) ([Live Demo](https://ultimate-travels.azurewebsites.net))
 - Developed a high-performance flight booking engine where by clients could search available flights, verify price, and book.
 - Utilized C# and ASP.NET Core for the server-side logic and SQL Server for database management.
 - Integrated the Amadeus APIs for flight search, price verification and booking.
